@@ -1,0 +1,14 @@
+This project was done as a part of an assignment for the Operating Systems course tought at Dept. Computer Science and Engineering, University of Moratuwa.
+
+Author: Supun Chathuranga Nakandala
+Started Date: 26-03-2012
+e-mail: supun_nakandala@ieee.org
+
+This project was done using the web reference http://asiri.rathnayake.org/articles/hacking-josh-operating-system-tutorial/.
+
+The added functionalities included to the operating system are,
+  1)Implement a new command for your operating system which prints hardware information about the computer.
+  2)Modify JOSH so that it natively boots from a FAT32 USB device.
+
+Thank You.
+Supun Nakandala
