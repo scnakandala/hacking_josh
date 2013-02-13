@@ -10,5 +10,6 @@ The added functionalities included to the operating system are,
   1)Implement a new command for your operating system which prints hardware information about the computer.
   2)Modify JOSH so that it natively boots from a FAT32 USB device.
 
+
 Thank You.
 Supun Nakandala
